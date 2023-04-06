@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravi-rautela" alt="ravi-rautela" /></a> </p>
 
-- 🔭 I’m currently working on **Android Application**
+- 🔭 I’m currently working on **Full stack Development**
 
 - 🌱 I’m currently learning **New Frame-works Libraries and android backend Application.**
 
@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [Programming and tech News](Programming and tech News)
 
-- 💬 Ask me about **react, JavaScript, java, Android, PHP etc.**
+- 💬 Ask me about **react, JavaScript, java, Android, node etc.**
 
 - 📫 How to reach me **ranvi44rautela@gmail.com**
 
